@@ -137,10 +137,10 @@ main{
     font-size: 4rem;
 }
 .dif{
-  color: var(--cor-primaria);
+  color: #001058;
   text-decoration:double;
   font-size: 5rem;
-  box-shadow: 0px 0px 2px #fff;
+  box-shadow: 0px 0px 1px 0px #fff;
 }
 
 .h2{
